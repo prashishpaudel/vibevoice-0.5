@@ -170,7 +170,6 @@ tags
 
 # our proj
 /output/
-/outputs/
 /checkpoint/
 /checkpoints/
 exp
